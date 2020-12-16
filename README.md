@@ -1,5 +1,8 @@
 # Deep_Reinforcement_Learning
-This repository contains my implementation in  of several classic Deep Reinforcement Learning algorithms to solve OpenAI Gym environments.    
+This repository contains my implementation in  of several classic Deep Reinforcement Learning algorithms to solve OpenAI Gym environments.      
+            
+The code is documented and designed to be easy to change from one algorithm to other. 
+
 
 ## Algorithms
 Particularly, I like the following algorithms:         
