@@ -14,7 +14,7 @@ Particularly, I like the following algorithms:
 The codes for those can be found in *codes/agents*. All of the codes is in Tensorflow v2.    
             
 # Environments
-The algorithms are then used to solve several OpenAI Gym environments, including:
+We train an RL agent based on those algorithms on several OpenAI Gym environments:
 + Cartpole-v0      
 + LunarLander-v2     
 + Pendulum-v0     
